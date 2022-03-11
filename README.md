@@ -99,4 +99,4 @@ Para que haja separação de responsabilidade das partes do programa.
 
 Veja uma discussão em [Como organizar e estruturar projetos com Node.js](https://medium.com/@diomalta/como-organizar-e-estruturar-projetos-com-node-js-4845be004899)
 
-Além disso, essa separação leva a atender alguns dos príncipios SOLID. Veja mais em [Princípios SOLID: Single Responsability Principle](https://www.treinaweb.com.br/blog/principios-solid-single-responsability-principl).
+Além disso, essa separação leva a atender alguns dos príncipios SOLID. Veja mais em [Princípios SOLID: Single Responsability Principle](https://www.treinaweb.com.br/blog/principios-solid-single-responsability-principle).
